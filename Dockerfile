@@ -1,4 +1,4 @@
-FROM hemanhp/djbase:4.2.5
+FROM jalalsadeghi/docker_base:0.2.1
 
 COPY ./requirements /requirements
 COPY ./scripts /scripts
